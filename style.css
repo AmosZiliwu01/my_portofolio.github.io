@@ -535,7 +535,7 @@ button {
 .input-field:hover{
   transition: all ease-in-out 0.3s;
   background-color: rgba(65, 65, 65, 0.308);
-  color: #000;
+  teks-color: white;
   cursor: pointer;
   box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
   padding: 10px;
@@ -1067,7 +1067,7 @@ svg:hover{
 .input-field:hover{
   transition: all ease-in-out 0.3s;
   background-color: rgba(65, 65, 65, 0.308);
-  color: #000;
+  teks-color: white;
   cursor: pointer;
   box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
   padding: 10px;
